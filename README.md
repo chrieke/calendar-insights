@@ -1,6 +1,6 @@
 # 📅 calendar-insights
 
-Query the Google Calendar API and analyse calendar events for meeting habits and interactions.
+Query the Google Calendar API & visualize meeting habits & interactions
 
 TODO:
 - Add calendar event filtering
