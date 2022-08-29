@@ -1,2 +1,5 @@
 # calendar-insights
-Analyse company calendar data with Google Calendar API, pandas, pyvis
+
+Query the Google Calendar API and analyse calendar events for meeting habits and interactions.
+
+
