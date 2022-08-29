@@ -130,3 +130,8 @@ dmypy.json
 
 .idea/*
 images/*
+token.json
+*client_secret*.json
+credentials.json
+df_calendar.pkl
+network.html
